@@ -3457,7 +3457,7 @@
     <value>[Input:25]更改档案（{0}）</value>
   </data>
   <data name="LOC_ID_DIARY_ENTRY_SCREEN_1" xml:space="preserve">
-    <value>入口#</value>
+    <value>记录#</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_BASE_14" xml:space="preserve">
     <value>神圣</value>
