@@ -1,17 +1,18 @@
 ## 游戏介绍
-
+![封面](https://github.com/VirtualCup/RogueLegacy_CN/blob/master/Preview/Cover.png?raw=true "封面")
+《[盗贼遗产](https://store.steampowered.com/app/115800/)》是一款像素画面的动作冒险游戏，游戏中玩家将扮演一名身穿铠甲，手拿大剑的英雄前往神秘的城堡中进行探险。游戏的内容非常丰富，是款又爽又虐的创意佳作。
 
 ## 补丁目的
 对《盗贼遗产》的官方中文进行全面重译。
 
-## 安装方法
-下载【Rogue Legacy】文件夹内的文件，覆盖原来的游戏文件。
-
 ## 参与成员
 全部：Virtualname
 
+## 安装方法
+下载【Rogue Legacy】文件夹内的文件，覆盖原来的游戏文件。
+
 ## 更新历史
-**补丁版本：v1.1 (内容版本ID：2664090)**
+**补丁版本：v1.1 (内容版本ID：2989380)**
 > 升级补丁，使之能兼容现有的游戏版本。   
 > 对新增的文本进行补充翻译。   
 > 官方已经修正的若干内容从补丁中移除。   
@@ -41,4 +42,12 @@
 * 因使用补丁而造成的任何损失，本组概不负责。   
 * 欢迎转载或用于实况，但请注明来源和相关信息。  
 
+## 特别事项
+
 ## 效果预览
+![预览图 0](https://github.com/VirtualCup/RogueLegacy_CN/blob/master/Preview/Preview_0.png?raw=true "预览图 0")  
+![预览图 1](https://github.com/VirtualCup/RogueLegacy_CN/blob/master/Preview/Preview_1.png?raw=true "预览图 1")   
+![预览图 2](https://github.com/VirtualCup/RogueLegacy_CN/blob/master/Preview/Preview_2.png?raw=true "预览图 2")  
+![预览图 3](https://github.com/VirtualCup/RogueLegacy_CN/blob/master/Preview/Preview_3.png?raw=true "预览图 3")  
+![预览图 4](https://github.com/VirtualCup/RogueLegacy_CN/blob/master/Preview/Preview_4.png?raw=true "预览图 4")  
+![预览图 5](https://github.com/VirtualCup/RogueLegacy_CN/blob/master/Preview/Preview_5.png?raw=true "预览图 5")  
