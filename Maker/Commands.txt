@@ -1,5 +1,0 @@
-指令行：
-参数可互换：
-Resgen RogueCastle.Resources.LocStrings.zh.resources RogueCastle.Resources.LocStrings.zh.resx
-Resgen RogueCastle.Resources.LocStrings.zh.resx RogueCastle.Resources.LocStrings.zh.resources
-Al.exe /t:lib /embed:RogueCastle.Resources.LocStrings.zh.resources /culture:zh /out:RogueLegacy.resources.dll
